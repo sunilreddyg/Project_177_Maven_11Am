@@ -14,13 +14,13 @@ public class ClassB
 	@Test
 	public void tc005()
 	{
-		System.out.println("Tc005 executed");
+		System.out.println("Tc005 Completed");
 	}
 	
 	@Test
 	public void tc006()
 	{
-		System.out.println("Tc006 executed");
+		System.out.println("Tc006 executed successfull");
 	}
 	
 	@Test
