@@ -22,4 +22,10 @@ public class ClassB
 	{
 		System.out.println("Tc006 executed");
 	}
+	
+	@Test
+	public void tc007()
+	{
+		System.out.println("Tc007 executed");
+	}
 }
